@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Alert</title>
+</head>
+<body>
+
+<script>
+    {
+        let name = "Jack";
+        console.log("1 = " + name)
+
+        name = 15;
+        console.log("2 = " + name)
+
+        name = ["red", "greeen", "blue"]
+        console.log("3 = " + name)
+    }
+
+    console.log("за методом " + name)
+
+    const num = 12
+    //num = 15;
+
+
+    // alert confirm prompt
+    alert("Информация от алерт qa31")
+
+    answer = confirm("Тебе нравится Java?")
+
+    if (answer) {
+        document.write("<h1>Ты молодец</h1>")
+    } else {
+        document.write("<h1 style='color: red;'>Ты ее просто не знаешь >))</h1>")
+    }
+
+    firstName = prompt("Как тебя зовут?", "Jack")
+
+    if (firstName != null) {
+        document.write("<h2>Привет " + firstName + "</h2>")
+    }else {
+        document.write("<h2>Ты не сказал как тебя зовут((</h2>")
+    }
+
+
+</script>
+
+</body>
+</html>
