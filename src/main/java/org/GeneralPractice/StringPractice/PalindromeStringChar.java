@@ -1,4 +1,4 @@
-package org.StringPractice;
+package org.GeneralPractice.StringPractice;
 
 import java.util.Random;
 

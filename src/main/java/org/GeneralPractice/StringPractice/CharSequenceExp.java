@@ -1,4 +1,4 @@
-package org.StringPractice;
+package org.GeneralPractice.StringPractice;
 
 public class CharSequenceExp {
     public static void main(String[] args) {
