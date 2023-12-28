@@ -1,6 +1,6 @@
 package HomeTasksTests.Task0910;
 
-//import org.example.Task0910.ActionsHomeTask;
+import org.HomeTasks.Task0910.ActionsHomeTask;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ParameterResolutionException;
@@ -12,7 +12,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
 
-/*public class ActionsHomeTaskTest {
+public class ActionsHomeTaskTest {
 
     // метод для пошуку тексту в iframe до створення New document
     @Test
@@ -112,4 +112,4 @@ import java.util.List;
                         .findElement(By.xpath("//*[@id=\"_mce_caret\"]/em")).getText());
         webDriver.quit();
     }
-}*/
+}
