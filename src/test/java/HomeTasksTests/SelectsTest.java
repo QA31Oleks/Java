@@ -1,20 +1,13 @@
 package HomeTasksTests;
 
-//import org.example.Task1610.Selects;
+import org.HomeTasks.Task1610.Selects;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
- /*public class SelectsTest {
+ public class SelectsTest {
    @Test
     public void selectsTest() {
         WebDriver webDriver = new ChromeDriver();
@@ -26,5 +19,5 @@ import java.util.List;
         selects.multiselectClick(numberOfSelect);
         Assertions.assertLinesMatch(selects.listOfSelectAdditives(numberOfSelect), selects.listOfSelectElement(webDriver));
     }
-}*/
+}
 
