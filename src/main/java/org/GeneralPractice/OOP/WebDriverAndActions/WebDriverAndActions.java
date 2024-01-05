@@ -1,4 +1,4 @@
-package org.OOP.WebDriverAndActions;
+package org.GeneralPractice.OOP.WebDriverAndActions;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

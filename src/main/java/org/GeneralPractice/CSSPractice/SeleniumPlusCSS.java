@@ -1,4 +1,4 @@
-package org.CSSPractice;
+package org.GeneralPractice.CSSPractice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

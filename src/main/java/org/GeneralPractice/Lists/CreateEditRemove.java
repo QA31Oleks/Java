@@ -1,4 +1,4 @@
-package org.Lists;
+package org.GeneralPractice.Lists;
 
 import java.util.*;
 public class CreateEditRemove {

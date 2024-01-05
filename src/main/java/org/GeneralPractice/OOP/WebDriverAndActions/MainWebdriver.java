@@ -1,4 +1,4 @@
-package org.OOP.WebDriverAndActions;
+package org.GeneralPractice.OOP.WebDriverAndActions;
 
 public class MainWebdriver {
     public static void main(String[] args) {
