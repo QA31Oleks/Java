@@ -18,6 +18,7 @@ public class UpperLowLetters {
                 valueReturn2 += String.valueOf(value.charAt(i));
             }
         }
+        // .concat() or +=
         // String valueReturnAmount = valueReturn1.concat(valueReturn2);
         String valueReturnAmount = valueReturn1 + valueReturn2;
         return valueReturnAmount;
