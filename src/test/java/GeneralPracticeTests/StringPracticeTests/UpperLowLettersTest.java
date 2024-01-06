@@ -9,6 +9,6 @@ public class UpperLowLettersTest {
     @Test
     public void check_list(){
         var upperLowLetters = new UpperLowLetters();
-        Assert.assertEquals("[A, C, E]", upperLowLetters.stringToUpper("AbCdEf"));
+        Assert.assertEquals("ACEbdf", upperLowLetters.stringToUpper("AbCdEf"));
     }
 }
