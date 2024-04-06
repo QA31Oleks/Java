@@ -1,9 +1,9 @@
-package org.packageJavaForTesters.methodOverloading;
+package org.packageJavaForTesters.methodOverloadingAndOverriding;
 
-public class MethodOverLoad {
+public class MethodOverLoading {
     public static void main(String[] args) {
 
-        MethodOverLoad mo = new MethodOverLoad();
+        MethodOverLoading mo = new MethodOverLoading();
         mo.login(123, "qqq");
         mo.login("123", "qqq");
 
