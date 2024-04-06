@@ -1,9 +1,8 @@
 package HomeTasksTests.Task0910;
 
-import org.HomeTasks.Task0910.ActionsHomeTask;
+import org.homeTasks.Task0910.ActionsHomeTask;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.extension.ParameterResolutionException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

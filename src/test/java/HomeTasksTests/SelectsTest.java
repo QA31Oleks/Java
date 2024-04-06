@@ -1,6 +1,6 @@
 package HomeTasksTests;
 
-import org.HomeTasks.Task1610.Selects;
+import org.homeTasks.Task1610.Selects;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;

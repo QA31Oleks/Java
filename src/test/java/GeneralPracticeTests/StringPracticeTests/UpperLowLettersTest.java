@@ -1,6 +1,6 @@
 package GeneralPracticeTests.StringPracticeTests;
 
-import org.GeneralPractice.StringPractice.UpperLowLetters;
+import org.generalPractice.StringPractice.UpperLowLetters;
 import org.junit.Assert;
 import org.junit.Test;
 

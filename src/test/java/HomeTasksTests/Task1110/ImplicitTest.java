@@ -1,6 +1,6 @@
 package HomeTasksTests.Task1110;
 
-import org.HomeTasks.Task1110.Implicit;
+import org.homeTasks.Task1110.Implicit;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

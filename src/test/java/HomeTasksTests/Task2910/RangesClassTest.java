@@ -1,10 +1,8 @@
 package HomeTasksTests.Task2910;
 
-import org.HomeTasks.Task2910.RangesClass;
+import org.homeTasks.Task2910.RangesClass;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
-
-import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 

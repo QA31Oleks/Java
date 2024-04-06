@@ -1,6 +1,6 @@
 package HomeTasksTests.Task0910;
 
-import org.HomeTasks.Task0910.ActionsAndAlert;
+import org.homeTasks.Task0910.ActionsAndAlert;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Alert;
